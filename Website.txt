@@ -1,0 +1,33 @@
+<html><head><title>Friends Bio data</title>
+<body bgcolor="ff9867">
+<table border=4>
+<tr>
+<th><img src ="C:\Users\JKJoshi\Desktop\Aman\car collections\1.jpg" alt="a star" align="top" height="50px" width="75px"><img src ="C:\Users\JKJoshi\Desktop\2nd sem\Web tech\cap757 bootsstrap\ogo-1932539__340.webp" alt="a star" align="top" height="50px" width="75px"></th>
+<th>Roll No.</th>
+<th>Bio Data<th>
+<th></th>
+</tr>
+<td>Arun</td>
+<td>4</td>
+<td><a href="biodata.html" target="f3">Arun Details </a></td>
+</tr>
+</tr>
+<td>Raghav</td>
+<td>9</td>
+<td><a href="biodata3.html" target="f3">Raghav Details </a></td>
+</tr>
+</tr>
+<td>Aakriti</td>
+<td>6</td>
+<td><a href="biodata1.html" target="f3">Aakriti Data</a></td>
+</tr>
+<td>Kajal</td>
+<td>3</td>
+<td><a href="biodata2.html" target="f3">Kajal Data</a></td>
+</tr>
+<td>Amarjeet</td>
+<td>4</td>
+<td><a href="biodata4.html" target="f3">Amarjeet Data</a></td>
+
+</body>
+</html>
